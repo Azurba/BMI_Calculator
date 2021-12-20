@@ -14,7 +14,7 @@ First created: Summer 2019
 
 Last updated: August/2021
 
-# Introduction
+# Interface
 
 This app is super simple: it has no menus and therefore it will load the calculation inputs when the app is opened.
 
