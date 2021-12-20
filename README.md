@@ -14,6 +14,10 @@ First created: Summer 2019
 
 Last updated: August/2021
 
+# Video
+
+https://user-images.githubusercontent.com/58566178/146826229-28678baf-8a74-41a4-b6a1-d8011117177d.mp4
+
 # Interface
 
 This app is super simple: it has no menus and therefore it will load the calculation inputs when the app is opened.
@@ -25,9 +29,5 @@ This app is super simple: it has no menus and therefore it will load the calcula
 *Figure 2: calculation input with results*
 
 ![base](images/app_image2.PNG)
-
-# Video
-
-https://user-images.githubusercontent.com/58566178/146826229-28678baf-8a74-41a4-b6a1-d8011117177d.mp4
 
 
