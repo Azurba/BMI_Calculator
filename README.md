@@ -4,7 +4,7 @@ This app was created by Joao Pimenta Giudice in 2019, adapted from an Flutter On
 
 The CDC website was consulted in order to get the correct values of the Adult Body Mass Index and
 what does the value means in terms of "Underweight", "Normal", "Overweight", "Obese class I, II and 
-III"
+III".
 
 https://www.cdc.gov/obesity/adult/defining.html
 
